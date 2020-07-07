@@ -6,7 +6,7 @@ Este repositório se refere ao teste realizado para a vaga de Junior Data Scient
 
 Realizar os seguintes cases:
 
-### Case 1
+### Case 1 (Ver arquivo Case 1.ipynb)
 Open the TFP.csv file attached.
 
 The series is composed by TFP (rtfpna variable) at constant national prices (2005 = 1) for three countries: United States (USA), Canada (CAN) and Mexico (MEX).
@@ -17,7 +17,7 @@ The series is composed by TFP (rtfpna variable) at constant national prices (200
 
 3- Check in the following link pages 2 and 3: https://cran.r-project.org/web/packages/pwt8/pwt8.pdf to see a list of all variables in the original dataset. Can you think about another feature that could be helpful in explaining TFP series? Explain.
 
-### Case 2
+### Case 2 (Ver arquivo Case 2.ipynb)
 Attached to this test is a .csv file which contains data from Comexstat, which is basically the official data source for brazilian exports e imports, maintened by the government;
 The dataset contains all trackings of monthly imports and exports of a range of products (soybeans, soybean meal, soybean oil, corn, wheat and sugar), by brazilian states, by routes (air, sea, ground, etc) e from/to which country;
 We ask you to address a couple quentions below. Remember that data viz is one important skill to show besides any analytical skill. So we encourage you to use and explore a bunch of graphs and tables to show your point.
